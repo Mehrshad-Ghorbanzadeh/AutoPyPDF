@@ -27,21 +27,22 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Built With
 
-- **Language:** Python
-- **GUI Framework:** PyQt5
-- **CAD Automation:** pywin32 (`win32com`, `pythoncom`)
-- **PDF Manipulation:** pypdf
-- **Packaging:** PyInstaller
+This project is built using the following technologies and libraries:
+
+- **Python** - Core programming language
+- **PyQt5** - Modern desktop GUI framework
+- **pywin32 (`win32com`, `pythoncom`)** - AutoCAD COM automation interface
+- **pypdf** - PDF manipulation and merging
+- **PyInstaller** - Standalone executable packaging
 
 ---
 
 ## 📥 Installation & Usage
 
-1. Go to the **[Releases](../../releases)** section of this repository.
-2. Download the latest compiled package zip file.
-3. Extract and run `AutoPyPDF.exe` (Ensure AutoCAD is installed and running on your system).
+1. Download the standalone executable package directly from here: **[Download AutoPyPDF.zip]([sha256:b16138c0d1a4fcc5d9f7e07b612d4f73b4d9e2dc0a1b4a78d562072abdc96a57])**  
+   *(Make sure AutoCAD is installed and running on your system before launching the app).*
 
 ---
 
@@ -52,6 +53,10 @@
 - LinkedIn: [Mehrshad Ghorbanzadeh](https://www.linkedin.com/in/mehrshad-ghorbanzadeh-999422227)
 
 ---
+
+## 📄 License
+
+This project is licensed under the terms of the **MIT License**.
 
 ## 📄 License
 
