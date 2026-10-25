@@ -41,7 +41,8 @@ This project is built using the following technologies and libraries:
 
 ## 📥 Installation & Usage
 
-1. Download the standalone executable package directly from here: **[Download AutoPyPDF.zip]([https://github.com/Mehrshad-Ghorbanzadeh/AutoPyPDF/releases/download/V1.0.0/Setup_AutoPyPDF.exe])**  
+ 1. Download the standalone executable package directly from here: **[Download AutoPyPDF.zip](https://github.com/Mehrshad-Ghorbanzadeh/AutoPyPDF/releases/download/V1.0.0/Setup_AutoPyPDF.exe)**
+
    *(Make sure AutoCAD is installed and running on your system before launching the app).*
 
 ---
